@@ -1,1 +1,1 @@
-UPDATE `customer` SET `full_name` = 'Muhammad diaz abdillah' WHERE `id` = 1; 
+UPDATE `customer` SET `full_name` = 'nana eka' WHERE `id` = 1; 
